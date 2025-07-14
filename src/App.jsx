@@ -61,12 +61,8 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen p-8 bg-gray-100">
-<<<<<<< HEAD
-      <h1 className="text-2xl font-bold mb-4">Digital Modulation 💻</h1>
-=======
-      <h1 className="text-2xl font-bold mb-4">Digital Modulation</h1>
->>>>>>> b17e941164a85891853376b77fb557ed3f39c4ce
+    <div className="min-h-screen p-8 bg-gray-100">      
+    <h1 className="text-2xl font-bold mb-4">Digital Modulation 💻</h1>
 
       <div className="mb-4 flex flex-wrap gap-4">
         <input
